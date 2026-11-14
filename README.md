@@ -9,7 +9,7 @@ Este curso introduce a estudiantes de secundaria en la programación con **Java*
 - **Prerrequisitos:** no se requieren conocimientos previos de programación.
 - **Herramientas necesarias:** navegador web y compilador/editor Java en línea. Las lecciones 7 y 10 usan la entrada estándar del programa.
 
-- **Repositorio del código fuente:** PEGAR ENLACE DEL REPOSITORIO
+- **Repositorio del código fuente:** https://github.com/SirEthan04/java-fundamentals-course-proxy.git
 
 ## Secuencia de las lecciones
 
@@ -91,7 +91,7 @@ Este curso introduce a estudiantes de secundaria en la programación con **Java*
 - **Video (GodEthan):** https://youtu.be/kUVV5sPzC3w
 - **Conceptos clave:** Arreglos de objetos, índices, `length`, recorridos `for`, `Scanner`, validaciones, setters y promedio decimal.
 - **Actividad práctica:** Introducir la opción 2 y la nota 19: la ficha de Mar debe actualizarse y el promedio del grupo debe ser 15.0. Como ampliación, agregar un cuarto estudiante.
-- **Ejercicio en el editor:** https://onlinegdb.com/l3fMPGGTI
+- **Ejercicio en el editor:** https://www.onlinegdb.com/I3fMPGGTI
 
 ## Recursos adicionales
 
@@ -110,7 +110,7 @@ Este curso introduce a estudiantes de secundaria en la programación con **Java*
 | 7 | Leer un alias y validar la nota recibida | https://onlinegdb.com/V_xV4pinw |
 | 8 | Crear objetos Estudiante independientes | https://onlinegdb.com/H5zret1yy |
 | 9 | Proteger las notas con getters y setters | https://onlinegdb.com/tpZSCOR53 |
-| 10 | Seleccionar una ficha, modificar su nota y calcular el promedio | https://onlinegdb.com/l3fMPGGTI |
+| 10 | Seleccionar una ficha, modificar su nota y calcular el promedio | https://www.onlinegdb.com/I3fMPGGTI |
 
 **¡Gracias por completar el curso de Java básico!**
 
